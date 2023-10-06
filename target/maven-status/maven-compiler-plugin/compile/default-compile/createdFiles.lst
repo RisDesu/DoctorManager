@@ -1,0 +1,6 @@
+view\Main.class
+model\Doctor.class
+controller\DoctorManager.class
+common\Validation.class
+model\DoctorList.class
+view\Menu.class
